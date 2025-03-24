@@ -1,27 +1,25 @@
-ETRAFILM - The Future of AI-Driven Sci-Fi 🎬🚀
+# 🎬 ETRAFILM - The Future of AI-Driven Sci-Fi 🚀  
 
-🎥 Welcome to the official repository of ETRAFILM! 🎥
+Welcome to **ETRAFILM**, an innovative sci-fi project that combines artificial intelligence with cinematic storytelling.  
 
-ETRAFILM is an ambitious AI-powered sci-fi project that blends cutting-edge artificial intelligence with cinematic storytelling. This website serves as the official hub for updates, trailers, and exclusive content.
+## 🌟 About the Project  
+ETRAFILM is a groundbreaking project leveraging AI to create immersive and futuristic sci-fi narratives. The goal is to redefine the future of filmmaking with cutting-edge technology.  
 
-🚀 Live Preview
+## 🚀 Live Website  
+🔗 **[Visit ETRAFILM](https://your-username.github.io/ETRAFILM/)**  
+(Replace `your-username` with your actual GitHub username.)  
 
-🔗 Visit the official website
-(Replace your-username with your actual GitHub username.)
+## 📂 Project Structure  
+/ETRAFILM
+│── index.html   # Main webpage
+│── style.css    # Styling file
+│── README.md    # Project documentation
+## 🎬 Features  
+✅ AI-powered film production  
+✅ Futuristic sci-fi storytelling  
+✅ Dynamic & interactive web experience  
 
-📂 Project Structure
+## 💡 How to Support  
+🎭 Want to support ETRAFILM? Follow the journey, contribute to the project, and help bring the next-gen AI film to life!  
 
-/etrafilm
-│── index.html  (Main webpage)
-│── style.css   (Styling)
-│── README.md   (Project documentation)
-
-🎬 Features
-
-✅ AI-powered film production
-✅ Futuristic sci-fi storytelling
-✅ Dynamic & interactive web experience
-
-💡 How to Support
-
-🎭 Want to support ETRAFILM? Follow the journey on Ko-Fi, contribute to the project, and help bring the next-gen AI film to life!
+📌 **Stay tuned for updates!**  
