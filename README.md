@@ -1,16 +1,27 @@
-## Hi there 👋
+ETRAFILM - The Future of AI-Driven Sci-Fi 🎬🚀
 
-<!--
-**ETRAFILM/ETRAFILM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎥 Welcome to the official repository of ETRAFILM! 🎥
 
-Here are some ideas to get you started:
+ETRAFILM is an ambitious AI-powered sci-fi project that blends cutting-edge artificial intelligence with cinematic storytelling. This website serves as the official hub for updates, trailers, and exclusive content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Live Preview
+
+🔗 Visit the official website
+(Replace your-username with your actual GitHub username.)
+
+📂 Project Structure
+
+/etrafilm
+│── index.html  (Main webpage)
+│── style.css   (Styling)
+│── README.md   (Project documentation)
+
+🎬 Features
+
+✅ AI-powered film production
+✅ Futuristic sci-fi storytelling
+✅ Dynamic & interactive web experience
+
+💡 How to Support
+
+🎭 Want to support ETRAFILM? Follow the journey on Ko-Fi, contribute to the project, and help bring the next-gen AI film to life!
