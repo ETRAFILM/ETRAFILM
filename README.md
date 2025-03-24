@@ -2,20 +2,18 @@ ETRAFILM - The Future of AI-Driven Sci-Fi 🎬🚀
 
 🎥 Welcome to the official repository of ETRAFILM! 🎥
 
-ETRAFILM is an ambitious AI-powered sci-fi project that blends cutting-edge artificial intelligence with cinematic storytelling. This website serves as the official hub for updates, trailers, and exclusive content.
+ETRAFILM is an ambitious AI-powered sci-fi project that blends cutting-edge artificial intelligence with cinematic storytelling. This repository serves as the official hub for updates, trailers, and exclusive content.
 
-🚀 Live Preview
+🌐 Live Website
 
 🔗 Visit the official website
 (Replace your-username with your actual GitHub username.)
 
 📂 Project Structure
-
-/etrafilm
-│── index.html  (Main webpage)
-│── style.css   (Styling)
-│── README.md   (Project documentation)
-
+/etrafilm  
+│── index.html   (Main webpage)  
+│── style.css    (Styling)  
+│── README.md    (Project documentation)  
 🎬 Features
 
 ✅ AI-powered film production
